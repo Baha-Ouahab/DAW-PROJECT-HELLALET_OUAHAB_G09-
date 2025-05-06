@@ -255,6 +255,7 @@ header.scrolled {
   /* font-weight: 500; */
   color: white;
   outline: none;
+  cursor: pointer;
 }
 
 .nav-touch-close {
